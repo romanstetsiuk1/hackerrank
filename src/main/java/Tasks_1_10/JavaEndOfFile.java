@@ -1,4 +1,4 @@
-package task_8_JavaEndOfFile;
+package Tasks_1_10;
 
 /*
 "In computing, End Of File (commonly abbreviated EOF) is a condition in a computer operating system where no more

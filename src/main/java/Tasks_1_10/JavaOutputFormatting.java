@@ -1,4 +1,4 @@
-package JavaOutputFormatting;
+package Tasks_1_10;
 
 import java.util.Scanner;
 

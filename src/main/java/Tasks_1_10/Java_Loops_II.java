@@ -1,4 +1,4 @@
-package Java_Loops_II;
+package Tasks_1_10;
 
 /*
 We use the integers a, b, and n to create the following series:

@@ -1,4 +1,4 @@
-package JavaStdinAndStdout_II;
+package Tasks_1_10;
 
 /*
 In this challenge, you must read an integer, a double, and a String from stdin, then print the values according to the
