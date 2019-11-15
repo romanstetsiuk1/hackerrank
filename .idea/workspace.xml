@@ -18,36 +18,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/task_8_JavaEndOfFile/JavaEndOfFile.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_12_JavaStringReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_9_JavaStringsIntroduction.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_13_JavaAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1727#1728#0" expanded="true" />
-                <element signature="e#1773#1774#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/JavaLoops_I/JavaLoops_I.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="719">
+              <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -81,6 +64,11 @@
         <option value="$PROJECT_DIR$/src/main/java/task_8_JavaEndOfFile/JavaEndOfFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_9_JavaStaticInitializerBlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_9_JavaStringsIntroduction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_10_JavaSubstring.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_11_JavaSubstringComparisons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_11_JavaSubstringComparisons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_12_JavaStringReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_13_JavaAnagrams.java" />
       </list>
     </option>
   </component>
@@ -105,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,63 +130,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Java_Loops_II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaIfElse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaLoops_I" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaOutputFormatting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStdinAndStdout_II" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStdinAndStdoutI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task_7_javaDatatypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task_8_JavaEndOfFile" type="462c0819:PsiDirectoryNode" />
+              <item name="Tasks_11_20" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
@@ -209,7 +142,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -239,13 +171,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_9_JavaStringsIntroduction">
-    <configuration name="JavaDatatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_7_javaDatatypes.JavaDatatypes" />
+  <component name="RunManager" selected="Application.Task_13_JavaAnagrams">
+    <configuration name="Task_10_JavaSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_1_10.Task_10_JavaSubstring" />
+      <module name="hackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_11_JavaSubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_11_20.Task_11_JavaSubstringComparisons" />
+      <module name="hackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_12_JavaStringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_11_20.Task_12_JavaStringReverse" />
       <module name="hackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_7_javaDatatypes.*" />
+          <option name="PATTERN" value="Tasks_11_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,41 +199,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaEndOfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_8_JavaEndOfFile.JavaEndOfFile" />
+    <configuration name="Task_13_JavaAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_11_20.Task_13_JavaAnagrams" />
       <module name="hackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_8_JavaEndOfFile.*" />
+          <option name="PATTERN" value="Tasks_11_20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java_Loops_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Loops_II.Java_Loops_II" />
-      <module name="hackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Loops_II.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_9_JavaStaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_9_JavaStaticInitializerBlock" />
-      <module name="hackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Task_9_JavaStringsIntroduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_9_JavaStringsIntroduction" />
+      <option name="MAIN_CLASS_NAME" value="Tasks_1_10.Task_9_JavaStringsIntroduction" />
       <module name="hackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -295,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_13_JavaAnagrams" />
+        <item itemvalue="Application.Task_12_JavaStringReverse" />
+        <item itemvalue="Application.Task_11_JavaSubstringComparisons" />
+        <item itemvalue="Application.Task_10_JavaSubstring" />
         <item itemvalue="Application.Task_9_JavaStringsIntroduction" />
-        <item itemvalue="Application.Task_9_JavaStaticInitializerBlock" />
-        <item itemvalue="Application.JavaEndOfFile" />
-        <item itemvalue="Application.JavaDatatypes" />
-        <item itemvalue="Application.Java_Loops_II" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +255,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24200426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -366,34 +292,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JavaIfElse/JavaIfElseTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaIfElse/JavaIfElse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaStdinAndStdoutI/JavaStdinAndStdoutI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaStdinAndStdout_II/JavaStdinAndStdout_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaOutputFormatting/JavaOutputFormatting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -404,47 +302,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/task_7_javaDatatypes/JavaDatatypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Java_Loops_II/Java_Loops_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task_9_JavaStaticInitializerBlock.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/task_8_JavaEndOfFile/JavaEndOfFile.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaEndOfFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        <state relative-caret-position="-7">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaLoops_I/JavaLoops_I.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/Task_10_JavaSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/Java_Loops_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaLoops_I.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_9_JavaStringsIntroduction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaOutputFormatting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="55" column="4" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="697">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaStdinAndStdout_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaStdinAndStdoutI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaDatatypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaIfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_11_JavaSubstringComparisons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/Task_9_JavaStringsIntroduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1727#1728#0" expanded="true" />
-            <element signature="e#1773#1774#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_12_JavaStringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_13_JavaAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
         </state>
       </provider>
     </entry>

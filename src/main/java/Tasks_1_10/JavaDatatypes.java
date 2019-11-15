@@ -1,4 +1,4 @@
-package task_7_javaDatatypes;
+package Tasks_1_10;
 
 /*
 Java has 8 primitive data types; char, boolean, byte, short, int, long, float, and double. For this exercise, we'll
