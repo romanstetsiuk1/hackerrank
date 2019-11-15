@@ -1,3 +1,5 @@
+package Tasks_11_20;
+
 import java.util.Scanner;
 
 public class Task_11_JavaSubstringComparisons {

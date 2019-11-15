@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72008279-42b3-4dda-bbe5-23093c7dcbd1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaIfElse/JavaIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaLoops_I/JavaLoops_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaLoops_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaOutputFormatting/JavaOutputFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaOutputFormatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaStdinAndStdoutI/JavaStdinAndStdoutI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaStdinAndStdoutI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaStdinAndStdout_II/JavaStdinAndStdout_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaStdinAndStdout_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_Loops_II/Java_Loops_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/Java_Loops_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_10_JavaSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/Task_10_JavaSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_9_JavaStringsIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/Task_9_JavaStringsIntroduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task_7_javaDatatypes/JavaDatatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaDatatypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task_8_JavaEndOfFile/JavaEndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_1_10/JavaEndOfFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task_11_JavaSubstringComparisons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_11_JavaSubstringComparisons.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,22 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_11_JavaSubstringComparisons.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_12_JavaStringReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_1_10/Task_9_JavaStringsIntroduction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -79,6 +58,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Task_9_JavaStringsIntroduction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_10_JavaSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_11_JavaSubstringComparisons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_11_JavaSubstringComparisons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_12_JavaStringReverse.java" />
       </list>
     </option>
   </component>
@@ -104,7 +85,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,7 +121,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Tasks_1_10" type="462c0819:PsiDirectoryNode" />
+              <item name="Tasks_11_20" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerRank" type="b2602c69:ProjectViewProjectNode" />
@@ -153,6 +133,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,20 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_11_JavaSubstringComparisons">
-    <configuration name="JavaEndOfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_1_10.JavaEndOfFile" />
-      <module name="hackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tasks_1_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task_12_JavaStringReverse">
     <configuration name="Task_10_JavaSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tasks_1_10.Task_10_JavaSubstring" />
       <module name="hackerRank" />
@@ -203,8 +171,21 @@
       </method>
     </configuration>
     <configuration name="Task_11_JavaSubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_11_JavaSubstringComparisons" />
+      <option name="MAIN_CLASS_NAME" value="Tasks_11_20.Task_11_JavaSubstringComparisons" />
       <module name="hackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_12_JavaStringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_11_20.Task_12_JavaStringReverse" />
+      <module name="hackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks_11_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -225,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_12_JavaStringReverse" />
         <item itemvalue="Application.Task_11_JavaSubstringComparisons" />
         <item itemvalue="Application.Task_10_JavaSubstring" />
         <item itemvalue="Application.Task_9_JavaStringsIntroduction" />
         <item itemvalue="Application.Task_9_JavaStaticInitializerBlock" />
-        <item itemvalue="Application.JavaEndOfFile" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +240,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,10 +354,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_11_JavaSubstringComparisons.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_11_JavaSubstringComparisons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -387,6 +368,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tasks_11_20/Task_12_JavaStringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
     </entry>
